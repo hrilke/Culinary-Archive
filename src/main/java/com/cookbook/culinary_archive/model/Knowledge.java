@@ -22,7 +22,7 @@ public abstract class Knowledge extends BaseEntity{
 
     private Boolean published = false;
 
-    @Enumerated
+    @Enumerated(EnumType.STRING)
     @Column(name = "knowledge_type", insertable = false, updatable = false)
     private KnowledgeType knowledgeType;
 }
