@@ -2,6 +2,7 @@ package com.cookbook.culinary_archive.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.http.HttpMethod;
 import org.springframework.security.config.Customizer;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
@@ -26,6 +27,13 @@ public class SecurityConfig {
                 .csrf(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/h2-console/**").permitAll()
+                        .requestMatchers(HttpMethod.GET, "/api/knowledge", "/api/knowledge/search").permitAll()
+
+                        .requestMatchers(HttpMethod.POST, "/api/knowledge").hasRole("CREATOR")
+
+                        .requestMatchers(HttpMethod.PATCH, "/api/knowledge/*").hasRole("ADMIN")
+                        .requestMatchers(HttpMethod.DELETE, "/api/knowledge/*").hasRole("ADMIN")
+                        
                         .requestMatchers("/api/**").authenticated()
                     )
                 .httpBasic(Customizer.withDefaults())
@@ -43,7 +51,7 @@ public class SecurityConfig {
         UserDetails chef = User.builder()
                 .username("chef")
                 .password(passwordEncoder.encode("chef123"))
-                .roles("USER")
+                .roles("USER","CREATOR")
                 .build();
 
         UserDetails admin = User.builder()
