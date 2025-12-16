@@ -35,3 +35,20 @@ server:
 
 # Custom Application Properties
 app:
+  pagination:
+    default-page: 0
+    default-size: 10
+    max-size: 100
+    default-sort-direction: desc
+    default-sort-field: createdAt
+
+# Logging Configuration
+logging:
+  level:
+    root: INFO
+    com.cookbook.culinary_archive: DEBUG
+  file:
+    name: logs/app.log
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+    console: "%d{HH:mm:ss} %-5level %logger{36} - %msg%n"
