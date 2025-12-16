@@ -1,0 +1,998 @@
+{
+  "textKnowledge": [
+    {
+      "id": "0a625697-d98e-4729-8bda-7b2ff82c73fb",
+      "title": "Perfect Knife Skills for Dicing Onions",
+      "description": "Master the technique of dicing onions without tears",
+      "published": true,
+      "knowledgeType": "TEXT",
+      "content": "To dice an onion perfectly: Cut in half from root to tip, peel outer layers, make horizontal cuts toward the root (don't cut through), make vertical cuts following the onion's natural lines, then slice crosswise. The root end holds everything together.",
+      "category": "TECHNIQUE"
+    },
+    {
+      "id": "fdc7eb6c-08d8-4784-92a6-2d4bfc51821f",
+      "title": "Understanding Mise en Place",
+      "description": "The French culinary principle of preparation and organization",
+      "published": true,
+      "knowledgeType": "TEXT",
+      "content": "Mise en place means 'everything in its place'. Before cooking, measure and prepare all ingredients, arrange tools, and organize your workspace. This professional technique reduces stress, prevents mistakes, and ensures smooth cooking flow.",
+      "category": "PRINCIPLE"
+    },
+    {
+      "id": "cb524bdc-f73a-4365-9eef-5886bf830c27",
+      "title": "Proper Pasta Cooking Technique",
+      "description": "How to cook pasta to perfect al dente texture",
+      "published": true,
+      "knowledgeType": "TEXT",
+      "content": "Use 4-6 quarts of water per pound of pasta. Salt generously (1-2 tablespoons). Don't add oil. Stir occasionally. Test 2 minutes before package time. Al dente means slight resistance when bitten. Reserve 1 cup pasta water before draining.",
+      "category": "TECHNIQUE"
+    },
+    {
+      "id": "9d955569-4de7-4032-8966-27215a22cd4d",
+      "title": "Tempering Spices in Indian Cooking",
+      "description": "The art of tadka or tempering whole spices",
+      "published": true,
+      "knowledgeType": "TEXT",
+      "content": "Heat oil or ghee until shimmering. Add whole spices in order of hardness (cumin seeds, mustard seeds, curry leaves). Listen for sizzle and watch for color change. Pour immediately over dish. This releases essential oils and creates aromatic depth.",
+      "category": "TECHNIQUE"
+    },
+    {
+      "id": "ab6fff10-d664-489a-a88c-7c93814aa323",
+      "title": "Resting Meat After Cooking",
+      "description": "Why and how to rest cooked meat properly",
+      "published": true,
+      "knowledgeType": "TEXT",
+      "content": "After cooking, let meat rest 5-10 minutes (steaks) or 15-30 minutes (roasts). This allows juices to redistribute throughout the meat. Cover loosely with foil. Internal temperature rises 5-10°F during rest. Result: juicier, more flavorful meat.",
+      "category": "TECHNIQUE"
+    },
+    {
+      "id": "d86f5617-0410-4c02-bde1-8222ee11221e",
+      "title": "Balancing Flavors in Asian Cuisine",
+      "description": "The five fundamental flavors in Asian cooking",
+      "published": true,
+      "knowledgeType": "TEXT",
+      "content": "Asian cuisine balances five flavors: sweet (sugar, mirin), sour (vinegar, lime), salty (soy sauce, fish sauce), bitter (greens, tea), and umami (mushrooms, fermented ingredients). Adjust each element to create harmony. Taste and adjust continuously.",
+      "category": "PRINCIPLE"
+    }
+  ],
+  "linkKnowledge": [
+    {
+      "id": "9fa5d38f-42eb-40d3-935f-818dc987d4ef",
+      "title": "Jamie Oliver's Italian Pasta Masterclass",
+      "description": "Complete video guide to making authentic Italian pasta dishes",
+      "published": true,
+      "knowledgeType": "LINK",
+      "url": "https://youtube.com/watch?v=Jamie-Pasta-Carbonara",
+      "format": "VIDEO"
+    },
+    {
+      "id": "363f6160-a42b-4cdb-b50d-690418da2944",
+      "title": "Serious Eats Chicken Tikka Masala Guide",
+      "description": "Comprehensive article on making restaurant-quality tikka masala",
+      "published": true,
+      "knowledgeType": "LINK",
+      "url": "https://seriouseats.com/chicken-tikka-masala-recipe",
+      "format": "ARTICLE"
+    },
+    {
+      "id": "4fe7423d-4589-4a5d-a8f5-971174ec48eb",
+      "title": "America's Test Kitchen Steak Techniques",
+      "description": "Science-backed methods for perfect steak every time",
+      "published": true,
+      "knowledgeType": "LINK",
+      "url": "https://americastestkitchen.com/perfect-steak-guide",
+      "format": "VIDEO"
+    },
+    {
+      "id": "ccee6d04-7e27-4cd3-8d58-53f243f83886",
+      "title": "Bon Appétit Pad Thai Recipe",
+      "description": "Step-by-step guide to authentic Thai street food",
+      "published": true,
+      "knowledgeType": "LINK",
+      "url": "https://bonappetit.com/recipe/pad-thai-authentic",
+      "format": "ARTICLE"
+    },
+    {
+      "id": "7c654d25-b7fd-465e-836f-a50b3980b090",
+      "title": "King Arthur Baking Sourdough Tutorial",
+      "description": "Complete beginner's guide to sourdough bread baking",
+      "published": true,
+      "knowledgeType": "LINK",
+      "url": "https://kingarthurbaking.com/recipes/sourdough-bread-tutorial",
+      "format": "PDF"
+    },
+    {
+      "id": "923c213f-82a1-446a-9313-6a3c49f05f3d",
+      "title": "Tasty Chocolate Lava Cake Video",
+      "description": "Quick and easy molten chocolate cake recipe",
+      "published": true,
+      "knowledgeType": "LINK",
+      "url": "https://tasty.co/recipe/chocolate-lava-cake",
+      "format": "VIDEO"
+    }
+  ],
+  "quoteKnowledge": [
+    {
+      "id": "c7debbf6-78d5-4ce7-9000-2a637cb41d62",
+      "title": "Julia Child on Cooking Fearlessly",
+      "description": "Encouragement to embrace mistakes in the kitchen",
+      "published": true,
+      "knowledgeType": "QUOTE",
+      "quoteText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+      "speaker": "Julia Child",
+      "source": "My Life in France"
+    },
+    {
+      "id": "c700e256-1f5f-4dd3-9e1d-595ad44b157b",
+      "title": "Auguste Escoffier on Simplicity",
+      "description": "The master chef's philosophy on refined cooking",
+      "published": true,
+      "knowledgeType": "QUOTE",
+      "quoteText": "Good food is the foundation of genuine happiness.",
+      "speaker": "Auguste Escoffier",
+      "source": "Le Guide Culinaire"
+    },
+    {
+      "id": "c66d9e8c-1951-4797-925c-2cf73d31f274",
+      "title": "Marco Pierre White on Perfection",
+      "description": "Insights on achieving excellence in cooking",
+      "published": true,
+      "knowledgeType": "QUOTE",
+      "quoteText": "Perfection is lots of little things done well.",
+      "speaker": "Marco Pierre White",
+      "source": "White Heat"
+    },
+    {
+      "id": "02f0bd0a-15ae-41a5-b606-f01b150a6d8c",
+      "title": "Anthony Bourdain on Passion",
+      "description": "The late chef's view on cooking with heart",
+      "published": true,
+      "knowledgeType": "QUOTE",
+      "quoteText": "Your body is not a temple, it's an amusement park. Enjoy the ride.",
+      "speaker": "Anthony Bourdain",
+      "source": "Kitchen Confidential"
+    },
+    {
+      "id": "ad7d6026-4681-45cf-a4ca-2c1d87b0b397",
+      "title": "Massimo Bottura on Innovation",
+      "description": "Modern Italian cuisine philosophy",
+      "published": true,
+      "knowledgeType": "QUOTE",
+      "quoteText": "Tradition is not about looking back but about moving forward with awareness.",
+      "speaker": "Massimo Bottura",
+      "source": "Never Trust a Skinny Italian Chef"
+    },
+    {
+      "id": "c958f26c-6b1a-4d0c-92c7-1371741f3d9f",
+      "title": "Madhur Jaffrey on Spices",
+      "description": "Wisdom about Indian spice cooking",
+      "published": true,
+      "knowledgeType": "QUOTE",
+      "quoteText": "Spices are the soul of Indian cooking. They can turn simple ingredients into magic.",
+      "speaker": "Madhur Jaffrey",
+      "source": "An Invitation to Indian Cooking"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "817b78d7-6980-4784-a237-e77adafa126e",
+      "title": "Classic Spaghetti Carbonara",
+      "description": "Authentic Roman pasta with eggs, cheese, and guanciale",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "Italian",
+      "servings": 4,
+      "prepTimeMinutes": 25,
+      "difficultyLevel": "INTERMEDIATE",
+      "referencedKnowledge": [
+        "cb524bdc-f73a-4365-9eef-5886bf830c27",
+        "9fa5d38f-42eb-40d3-935f-818dc987d4ef",
+        "c700e256-1f5f-4dd3-9e1d-595ad44b157b"
+      ],
+      "ingredientList": [
+        {
+          "name": "Spaghetti",
+          "quantity": 400,
+          "unit": "grams"
+        },
+        {
+          "name": "Guanciale",
+          "quantity": 150,
+          "unit": "grams"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": 4,
+          "unit": "pieces"
+        },
+        {
+          "name": "Pecorino Romano cheese",
+          "quantity": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tablespoon"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Bring large pot of salted water to boil for pasta."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Cut guanciale into small strips and cook in dry pan until crispy, about 8 minutes."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "In bowl, whisk egg yolks with grated Pecorino and black pepper."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Cook spaghetti until al dente, reserve 1 cup pasta water."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Add drained pasta to pan with guanciale, remove from heat."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Add egg mixture, toss quickly, adding pasta water to create creamy sauce. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "cb02f0ee-f57b-4800-aa88-16fc6a68aac9",
+      "title": "Chicken Tikka Masala",
+      "description": "Creamy tomato-based curry with marinated grilled chicken",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "Indian",
+      "servings": 6,
+      "prepTimeMinutes": 45,
+      "difficultyLevel": "INTERMEDIATE",
+      "referencedKnowledge": [
+        "9d955569-4de7-4032-8966-27215a22cd4d",
+        "363f6160-a42b-4cdb-b50d-690418da2944",
+        "c958f26c-6b1a-4d0c-92c7-1371741f3d9f"
+      ],
+      "ingredientList": [
+        {
+          "name": "Chicken breast",
+          "quantity": 800,
+          "unit": "grams"
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Garam masala",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Tomato puree",
+          "quantity": 400,
+          "unit": "grams"
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Ginger-garlic paste",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Onion",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 3,
+          "unit": "tablespoons"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Marinate chicken pieces in yogurt, half the garam masala, and salt for 30 minutes."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Grill or broil marinated chicken until charred and cooked through, about 12 minutes."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Heat oil, sauté diced onions until golden, add ginger-garlic paste."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Add tomato puree and remaining garam masala, cook for 10 minutes."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Add grilled chicken pieces and cream, simmer for 15 minutes."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Garnish with fresh cilantro and serve with naan or rice."
+        }
+      ]
+    },
+    {
+      "id": "8eb9cf2f-2551-4b87-8fda-3b62f5d768ba",
+      "title": "Perfect Pan-Seared Ribeye Steak",
+      "description": "Restaurant-quality steak with herb butter",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "American",
+      "servings": 2,
+      "prepTimeMinutes": 30,
+      "difficultyLevel": "INTERMEDIATE",
+      "referencedKnowledge": [
+        "ab6fff10-d664-489a-a88c-7c93814aa323",
+        "4fe7423d-4589-4a5d-a8f5-971174ec48eb",
+        "c7debbf6-78d5-4ce7-9000-2a637cb41d62"
+      ],
+      "ingredientList": [
+        {
+          "name": "Ribeye steak",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "Butter",
+          "quantity": 4,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "pieces"
+        },
+        {
+          "name": "Fresh thyme",
+          "quantity": 4,
+          "unit": "sprigs"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Sea salt",
+          "quantity": 2,
+          "unit": "teaspoons"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Remove steaks from refrigerator 45 minutes before cooking, pat dry."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Season both sides generously with salt and pepper."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Heat cast iron skillet until smoking hot, add oil."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Sear steaks 4-5 minutes per side for medium-rare."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Add butter, garlic, and thyme; baste steaks for 2 minutes."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Remove from heat, rest 10 minutes before slicing."
+        }
+      ]
+    },
+    {
+      "id": "27dd7c74-2e00-49a6-9e61-e71515f66a2a",
+      "title": "Authentic Pad Thai",
+      "description": "Classic Thai stir-fried rice noodles with shrimp",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "Thai",
+      "servings": 4,
+      "prepTimeMinutes": 35,
+      "difficultyLevel": "INTERMEDIATE",
+      "referencedKnowledge": [
+        "d86f5617-0410-4c02-bde1-8222ee11221e",
+        "ccee6d04-7e27-4cd3-8d58-53f243f83886",
+        "c66d9e8c-1951-4797-925c-2cf73d31f274"
+      ],
+      "ingredientList": [
+        {
+          "name": "Rice noodles",
+          "quantity": 250,
+          "unit": "grams"
+        },
+        {
+          "name": "Shrimp",
+          "quantity": 300,
+          "unit": "grams"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "Tamarind paste",
+          "quantity": 3,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Fish sauce",
+          "quantity": 3,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Palm sugar",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Bean sprouts",
+          "quantity": 150,
+          "unit": "grams"
+        },
+        {
+          "name": "Peanuts",
+          "quantity": 50,
+          "unit": "grams"
+        },
+        {
+          "name": "Lime",
+          "quantity": 2,
+          "unit": "pieces"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Soak rice noodles in warm water for 20 minutes, drain."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Mix tamarind paste, fish sauce, and palm sugar for sauce."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Heat wok over high heat, scramble eggs, set aside."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Stir-fry shrimp until pink, add noodles and sauce."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Toss everything together, add eggs and bean sprouts."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Serve with crushed peanuts, lime wedges, and chili flakes."
+        }
+      ]
+    },
+    {
+      "id": "3f5c43bf-24dd-4119-86ce-d45f6f21f3f0",
+      "title": "Classic Margherita Pizza",
+      "description": "Traditional Neapolitan pizza with fresh mozzarella and basil",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "Italian",
+      "servings": 4,
+      "prepTimeMinutes": 120,
+      "difficultyLevel": "ADVANCED",
+      "referencedKnowledge": [
+        "fdc7eb6c-08d8-4784-92a6-2d4bfc51821f",
+        "9fa5d38f-42eb-40d3-935f-818dc987d4ef",
+        "ad7d6026-4681-45cf-a4ca-2c1d87b0b397"
+      ],
+      "ingredientList": [
+        {
+          "name": "Bread flour",
+          "quantity": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "Active dry yeast",
+          "quantity": 7,
+          "unit": "grams"
+        },
+        {
+          "name": "Water",
+          "quantity": 325,
+          "unit": "ml"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Salt",
+          "quantity": 10,
+          "unit": "grams"
+        },
+        {
+          "name": "San Marzano tomatoes",
+          "quantity": 400,
+          "unit": "grams"
+        },
+        {
+          "name": "Fresh mozzarella",
+          "quantity": 300,
+          "unit": "grams"
+        },
+        {
+          "name": "Fresh basil",
+          "quantity": 20,
+          "unit": "leaves"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Mix flour, yeast, water, oil, and salt; knead for 10 minutes."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Let dough rise in covered bowl for 90 minutes until doubled."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Divide into 4 balls, rest 15 minutes."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Preheat oven to maximum temperature (500°F/260°C)."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Stretch dough, top with crushed tomatoes, torn mozzarella."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Bake 8-10 minutes until crust is charred, add fresh basil."
+        }
+      ]
+    },
+    {
+      "id": "693ea85c-e89a-4a69-a089-cca700f58005",
+      "title": "Beef Bourguignon",
+      "description": "Classic French beef stew braised in red wine",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "French",
+      "servings": 6,
+      "prepTimeMinutes": 180,
+      "difficultyLevel": "ADVANCED",
+      "referencedKnowledge": [
+        "0a625697-d98e-4729-8bda-7b2ff82c73fb",
+        "4fe7423d-4589-4a5d-a8f5-971174ec48eb",
+        "c700e256-1f5f-4dd3-9e1d-595ad44b157b"
+      ],
+      "ingredientList": [
+        {
+          "name": "Beef chuck",
+          "quantity": 1200,
+          "unit": "grams"
+        },
+        {
+          "name": "Red wine",
+          "quantity": 750,
+          "unit": "ml"
+        },
+        {
+          "name": "Bacon",
+          "quantity": 150,
+          "unit": "grams"
+        },
+        {
+          "name": "Pearl onions",
+          "quantity": 250,
+          "unit": "grams"
+        },
+        {
+          "name": "Carrots",
+          "quantity": 3,
+          "unit": "pieces"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": 300,
+          "unit": "grams"
+        },
+        {
+          "name": "Tomato paste",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Beef stock",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pieces"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Cut beef into 2-inch cubes, season with salt and pepper."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Brown bacon in Dutch oven, remove. Brown beef in batches."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Sauté diced carrots and onions, add tomato paste."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Return beef, add wine, stock, and bay leaves."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Cover and braise in 325°F oven for 2.5 hours."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Sauté mushrooms separately, add to stew before serving."
+        }
+      ]
+    },
+    {
+      "id": "0103eaa0-de2a-4163-8ced-b50175cf202b",
+      "title": "Vegetable Biryani",
+      "description": "Aromatic layered rice dish with spiced vegetables",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "Indian",
+      "servings": 6,
+      "prepTimeMinutes": 60,
+      "difficultyLevel": "INTERMEDIATE",
+      "referencedKnowledge": [
+        "9d955569-4de7-4032-8966-27215a22cd4d",
+        "363f6160-a42b-4cdb-b50d-690418da2944",
+        "c958f26c-6b1a-4d0c-92c7-1371741f3d9f"
+      ],
+      "ingredientList": [
+        {
+          "name": "Basmati rice",
+          "quantity": 400,
+          "unit": "grams"
+        },
+        {
+          "name": "Mixed vegetables",
+          "quantity": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Onions",
+          "quantity": 3,
+          "unit": "pieces"
+        },
+        {
+          "name": "Biryani masala",
+          "quantity": 3,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Saffron",
+          "quantity": 1,
+          "unit": "pinch"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 4,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Fresh mint",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Cashews",
+          "quantity": 50,
+          "unit": "grams"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Soak rice for 30 minutes, parboil with whole spices until 70% cooked."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Fry sliced onions until golden brown and crispy."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Cook vegetables with biryani masala and yogurt."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Layer rice and vegetables in heavy-bottomed pot."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Top with fried onions, saffron milk, mint, and ghee."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Cover tightly, cook on low heat for 20 minutes (dum method)."
+        }
+      ]
+    },
+    {
+      "id": "e890020c-c0c8-4e79-b121-5b0f1bbaeda7",
+      "title": "Molten Chocolate Lava Cake",
+      "description": "Decadent individual chocolate cakes with gooey center",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "French",
+      "servings": 4,
+      "prepTimeMinutes": 25,
+      "difficultyLevel": "INTERMEDIATE",
+      "referencedKnowledge": [
+        "fdc7eb6c-08d8-4784-92a6-2d4bfc51821f",
+        "923c213f-82a1-446a-9313-6a3c49f05f3d",
+        "02f0bd0a-15ae-41a5-b606-f01b150a6d8c"
+      ],
+      "ingredientList": [
+        {
+          "name": "Dark chocolate",
+          "quantity": 200,
+          "unit": "grams"
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": 50,
+          "unit": "grams"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Preheat oven to 425°F (220°C). Butter and flour 4 ramekins."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Melt chocolate and butter together in double boiler."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Whisk eggs, yolks, sugar, and vanilla until thick and pale."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Fold melted chocolate into egg mixture, then fold in flour."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Divide batter among ramekins, filling 3/4 full."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Bake 12-14 minutes until edges are firm but center jiggles. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "a1757afa-91c4-4199-b2a3-caaac2fd8f11",
+      "title": "Classic Caesar Salad",
+      "description": "Traditional Caesar with homemade dressing and croutons",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "American",
+      "servings": 4,
+      "prepTimeMinutes": 20,
+      "difficultyLevel": "BEGINNER",
+      "referencedKnowledge": [
+        "fdc7eb6c-08d8-4784-92a6-2d4bfc51821f",
+        "4fe7423d-4589-4a5d-a8f5-971174ec48eb",
+        "c66d9e8c-1951-4797-925c-2cf73d31f274"
+      ],
+      "ingredientList": [
+        {
+          "name": "Romaine lettuce",
+          "quantity": 2,
+          "unit": "heads"
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pieces"
+        },
+        {
+          "name": "Anchovy fillets",
+          "quantity": 6,
+          "unit": "pieces"
+        },
+        {
+          "name": "Egg yolk",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 3,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Dijon mustard",
+          "quantity": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Bread cubes",
+          "quantity": 200,
+          "unit": "grams"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Toast bread cubes with olive oil until golden for croutons."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Mince garlic and anchovies into paste using mortar and pestle."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Whisk egg yolks, lemon juice, mustard, and anchovy-garlic paste."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Slowly drizzle olive oil while whisking to emulsify dressing."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Toss torn romaine with dressing until evenly coated."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Top with croutons and shaved Parmesan, serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "4a71f516-f14f-450d-96ce-41efc1269645",
+      "title": "Artisan Sourdough Bread",
+      "description": "Naturally leavened bread with crispy crust and tangy flavor",
+      "published": true,
+      "knowledgeType": "RECIPE",
+      "cuisine": "American",
+      "servings": 1,
+      "prepTimeMinutes": 1440,
+      "difficultyLevel": "PROFESSIONAL",
+      "referencedKnowledge": [
+        "fdc7eb6c-08d8-4784-92a6-2d4bfc51821f",
+        "7c654d25-b7fd-465e-836f-a50b3980b090",
+        "ad7d6026-4681-45cf-a4ca-2c1d87b0b397"
+      ],
+      "ingredientList": [
+        {
+          "name": "Bread flour",
+          "quantity": 500,
+          "unit": "grams"
+        },
+        {
+          "name": "Water",
+          "quantity": 350,
+          "unit": "ml"
+        },
+        {
+          "name": "Active sourdough starter",
+          "quantity": 100,
+          "unit": "grams"
+        },
+        {
+          "name": "Salt",
+          "quantity": 10,
+          "unit": "grams"
+        }
+      ],
+      "cookingStepList": [
+        {
+          "stepNumber": 1,
+          "instruction": "Mix flour, water, and starter. Autolyse for 30 minutes."
+        },
+        {
+          "stepNumber": 2,
+          "instruction": "Add salt, perform stretch and fold every 30 minutes for 3 hours."
+        },
+        {
+          "stepNumber": 3,
+          "instruction": "Bulk ferment at room temperature for 8-12 hours until doubled."
+        },
+        {
+          "stepNumber": 4,
+          "instruction": "Shape into round loaf, place in proofing basket seam-side up."
+        },
+        {
+          "stepNumber": 5,
+          "instruction": "Cold proof in refrigerator for 12-18 hours."
+        },
+        {
+          "stepNumber": 6,
+          "instruction": "Score top, bake in preheated Dutch oven at 450°F for 45 minutes."
+        }
+      ]
+    }
+  ]
+}
