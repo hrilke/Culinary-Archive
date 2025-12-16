@@ -41,9 +41,7 @@ mvn test -Dtest=*Test
 
 The application uses an **H2 in-memory database** that initializes on startup. To load sample data:
 
-1. **Prepare your JSON file**: Use the provided `recipe_collection_data.json` format with your culinary data
-2. **API Import**: Use the POST endpoint to bulk import entries (see cURL examples below)
-3. **Manual via H2 Console**: Access the H2 console and execute INSERT statements directly
+ **API Import**: Use the POST endpoint to bulk import entries (see cURL examples below)
 
 #### H2 Database Console
 
