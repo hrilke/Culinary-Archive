@@ -277,7 +277,7 @@ src/main/java/com/cookbook/culinary_archive/
 
 ### Class Diagram
 
-![Class Diagram](path/to/your/class-diagram.png)
+![Class Diagram](https://github.com/hrilke/Culinary-Archive/blob/e69cc8d67f474cef9d85ffcab016880a6db6ff41/attachments/Class%20Diagram.png)
 
 
 ### Key Design Choices
